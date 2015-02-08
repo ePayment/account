@@ -55,6 +55,9 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ePayment.DataProvider">
+      <HintPath>..\..\ePayment\Source\FrontEnd\frontend\ePayment.DataProvider\bin\Debug\ePayment.DataProvider.dll</HintPath>
+    </Reference>
     <Reference Include="log4net, Version=1.2.9.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\lib\log4net.dll</HintPath>
@@ -73,6 +76,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mongo\Account.cs" />
     <Compile Include="Oracle\Account.cs" />
     <Compile Include="SqlServer\Channels.cs" />
     <Compile Include="SqlServer\EndOfDay.cs" />
