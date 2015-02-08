@@ -1,0 +1,5 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\bin\Release\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\bin\Release\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Release\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Release\Account.Common.pdb

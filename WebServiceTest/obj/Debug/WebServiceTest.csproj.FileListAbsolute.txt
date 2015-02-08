@@ -1,0 +1,10 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\bin\WebServiceTest.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\bin\WebServiceTest.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\obj\Debug\WebServiceTest.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\obj\Debug\WebServiceTest.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\bin\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\bin\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\bin\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\bin\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\WebServiceTest\bin\Account.Data.pdb

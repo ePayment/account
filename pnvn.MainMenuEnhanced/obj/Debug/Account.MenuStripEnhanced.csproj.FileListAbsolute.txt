@@ -1,0 +1,28 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuStripEnhanced.csproj.GenerateResource.Cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.Components.MenuStripEnhanced.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.pdb
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.dll
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.pdb
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.Components.MenuStripEnhanced.resources
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.dll
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.Components.MenuStripEnhanced.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuStripEnhanced.csproj.GenerateResource.Cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\bin\Debug\Account.MenuEnhanced.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuStripEnhanced.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.Components.MenuStripEnhanced.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuStripEnhanced.csproj.GenerateResource.Cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.MainMenuEnhanced\obj\Debug\Account.MenuEnhanced.pdb

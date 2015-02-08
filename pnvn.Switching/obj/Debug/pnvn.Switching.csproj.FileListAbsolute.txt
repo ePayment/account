@@ -1,0 +1,13 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\obj\Debug\pnvn.Switching.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\obj\Debug\pnvn.Switching.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\pnvn.Switching.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\pnvn.Switching.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\pnvn.Switching.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\pnvn.BLL.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\DAL.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\pnvn.BLL.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\DAL.pdb

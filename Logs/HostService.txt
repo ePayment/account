@@ -1,0 +1,22 @@
+﻿[Header]
+2010-04-17 23:32:10,561 [196] DEBUG Account.Business.MakeTranday [(null)] - Create MakeTranday object successfull
+[Footer]
+[Header]
+2010-04-17 23:34:57,750 [5448] DEBUG Account.Business.MakeTranday [(null)] - Create MakeTranday object successfull
+2010-04-17 23:34:57,862 [5448] ERROR Account.Host.HostService [(null)] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Account.Host.ServiceHostEnhanced.Append(String str) in C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\HostEnhanced.cs:line 90
+   at Account.Host.ServiceHostEnhanced.Open() in C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\HostEnhanced.cs:line 59
+   at Account.Host.HostService.OnStart(String[] args) in C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\HostService.cs:line 41
+[Footer]
+[Header]
+2010-04-17 23:41:39,776 [4860] DEBUG Account.Business.MakeTranday [(null)] - Create MakeTranday object successfull
+[Footer]
+[Header]
+2010-04-17 23:48:38,600 [3644] DEBUG Account.Business.MakeTranday [(null)] - Create MakeTranday object successfull
+2010-04-17 23:48:38,710 [3644] INFO  Account.Host.ServiceHostEnhanced [(null)] - netcash	netcash channel starting .....
+2010-04-17 23:48:38,711 [3644] INFO  Account.Host.ServiceHostEnhanced [(null)] - netcash	Host channel netcash opening ... Stand by
+2010-04-17 23:48:38,736 [3644] INFO  Account.Host.ServiceHostEnhanced [(null)] - netcash	Host channel netcash opened.
+2010-04-17 23:48:38,736 [3644] INFO  Account.Host.ServiceHostEnhanced [(null)] - netcash	Host channel netcash URL:	http://127.0.0.1:7999/netcash	(Security is True)
+2010-04-17 23:48:38,737 [3644] INFO  Account.Host.ServiceHostEnhanced [(null)] - netcash	Host channel netcash meta URL:	http://127.0.0.1:8000/netcash	(Not that relevant)
+2010-04-17 23:48:38,737 [3644] INFO  Account.Host.ServiceHostEnhanced [(null)] - netcash	Host channel netcash Waiting for clients...
+[Footer]

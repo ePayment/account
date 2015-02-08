@@ -1,0 +1,16 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Release\Account.Host.HostService.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Release\Account.Host.HostServiceInstaller.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Release\Account.HostService.csproj.GenerateResource.Cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Release\Account.HostService.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Release\Account.HostService.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.Common.pdb

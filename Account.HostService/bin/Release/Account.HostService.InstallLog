@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.InstallLog
+Installing service Account.HostService...
+Service Account.HostService has been successfully installed.
+Creating EventLog source Account.HostService in log Application...
+Committing assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Release\Account.HostService.InstallLog

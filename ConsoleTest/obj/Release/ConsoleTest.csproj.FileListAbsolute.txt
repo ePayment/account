@@ -1,0 +1,6 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\obj\Release\AccountTest.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\obj\Release\AccountTest.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\bin\Release\AccountTest.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\bin\Release\AccountTest.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\bin\Release\AccountTest.pdb

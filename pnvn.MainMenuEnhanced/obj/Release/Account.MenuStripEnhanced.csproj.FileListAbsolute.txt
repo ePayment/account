@@ -1,0 +1,7 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\bin\Release\Account.MenuEnhanced.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\bin\Release\Account.MenuEnhanced.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Release\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Release\Account.Components.MenuStripEnhanced.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Release\Account.MenuStripEnhanced.csproj.GenerateResource.Cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Release\Account.MenuEnhanced.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.MainMenuEnhanced\obj\Release\Account.MenuEnhanced.pdb

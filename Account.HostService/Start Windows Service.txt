@@ -1,0 +1,38 @@
+﻿private void IntializeFileSystemWatcher()
+{
+    System.IO.FileSystemWatcher newexe=new   System.IO.FileSystemWatcher(
+        "c:\\services\\Updates","newservice.exe");
+    newexe.Created += new FileSystemEventHandler(NewExecutable);
+    newexe.EnableRaisingEvents = true;
+}
+private void NewExecutable(object source, FileSystemEventArgs e)
+{
+    Process.Start("c:\\services\\ServiceUpdate.exe","newservice");
+}
+protected override void OnStart(string[] args)
+{
+    IntializeFileSystemWatcher();
+} 
+
+static void Main(string[] args)
+{
+    if (args.Length == 0)
+        return;
+    string filename=args[0];
+
+    System.ServiceProcess.ServiceController target = new 
+        System.ServiceProcess.ServiceController(filename);
+
+    target.Stop();
+    while(target.Status != 
+        System.ServiceProcess.ServiceControllerStatus.Stopped)
+    {
+        target.Refresh();
+    }
+    Thread.Sleep(2000);
+    File.Delete("c:\\services\\Updates\\" + filename + ".exe");
+
+    File.Move("c:\\services\\Updates\\" + filename + 
+        ".exe","c:\\services\\" + filename + ".exe");
+    target.Start();
+}

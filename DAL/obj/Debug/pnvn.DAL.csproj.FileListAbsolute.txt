@@ -1,0 +1,12 @@
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\DAL.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\DAL.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\DAL.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\DAL.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\DAL.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\DAL.pdb

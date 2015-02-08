@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D4DC0D3A-CF70-4A4E-B1CE-E2B8F8501211}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Account.Host.Interface</RootNamespace>
+    <AssemblyName>Account.Host.Interface</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v7.1, Version=7.1.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.Data.v7.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v7.1, Version=7.1.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.Utils.v7.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v7.1, Version=7.1.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraBars.v7.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v7.1, Version=7.1.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraEditors.v7.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v7.1, Version=7.1.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraGrid.v7.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v7.1, Version=7.1.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraNavBar.v7.1.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.9.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form\frmAccountBlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccountBlock.Designer.cs">
+      <DependentUpon>frmAccountBlock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccount.Designer.cs">
+      <DependentUpon>frmAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAccountGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccountGL.Designer.cs">
+      <DependentUpon>frmAccountGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAccountGLList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccountGLList.Designer.cs">
+      <DependentUpon>frmAccountGLList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAccountList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccountList.Designer.cs">
+      <DependentUpon>frmAccountList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmBranchList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmBranchList.Designer.cs">
+      <DependentUpon>frmBranchList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmChannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmChannel.Designer.cs">
+      <DependentUpon>frmChannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmChannelList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmChannelList.Designer.cs">
+      <DependentUpon>frmChannelList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmCustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmCustomerList.Designer.cs">
+      <DependentUpon>frmCustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAccountRoleList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccountRoleList.Designer.cs">
+      <DependentUpon>frmAccountRoleList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmCategoryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmCategoryList.Designer.cs">
+      <DependentUpon>frmCategoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmEndOfDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmEndOfDay.Designer.cs">
+      <DependentUpon>frmEndOfDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmParameterList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmParameterList.Designer.cs">
+      <DependentUpon>frmParameterList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmTranCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTranCode.Designer.cs">
+      <DependentUpon>frmTranCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmTranCodeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTranCodeList.Designer.cs">
+      <DependentUpon>frmTranCodeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmTranDayDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTranDayDetail.designer.cs">
+      <DependentUpon>frmTranDayDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmTranDayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTranDayList.designer.cs">
+      <DependentUpon>frmTranDayList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmTransactionFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTransactionFilter.Designer.cs">
+      <DependentUpon>frmTransactionFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAccountRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccountRole.Designer.cs">
+      <DependentUpon>frmAccountRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmCurrency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmCurrency.Designer.cs">
+      <DependentUpon>frmCurrency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmCurrencyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmCurrencyList.Designer.cs">
+      <DependentUpon>frmCurrencyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmUserProfile.Designer.cs">
+      <DependentUpon>frmUserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmUserProfileList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmUserProfileList.Designer.cs">
+      <DependentUpon>frmUserProfileList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAccountOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAccountOpen.Designer.cs">
+      <DependentUpon>frmAccountOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserPassword.Designer.cs">
+      <DependentUpon>frmUserPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserResetPassword.Designer.cs">
+      <DependentUpon>frmUserResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form\frmAccount.resx">
+      <DependentUpon>frmAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAccountBlock.resx">
+      <DependentUpon>frmAccountBlock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAccountGL.resx">
+      <DependentUpon>frmAccountGL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAccountGLList.resx">
+      <DependentUpon>frmAccountGLList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAccountList.resx">
+      <DependentUpon>frmAccountList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAccountRole.resx">
+      <DependentUpon>frmAccountRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAccountRoleList.resx">
+      <DependentUpon>frmAccountRoleList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmBranchList.resx">
+      <DependentUpon>frmBranchList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmCategoryList.resx">
+      <DependentUpon>frmCategoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmChannel.resx">
+      <DependentUpon>frmChannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmChannelList.resx">
+      <DependentUpon>frmChannelList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmCurrency.resx">
+      <DependentUpon>frmCurrency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmCustomerList.resx">
+      <DependentUpon>frmCustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmParameterList.resx">
+      <DependentUpon>frmParameterList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTranCode.resx">
+      <DependentUpon>frmTranCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTranCodeList.resx">
+      <DependentUpon>frmTranCodeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTranDayDetail.resx">
+      <DependentUpon>frmTranDayDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTranDayList.resx">
+      <DependentUpon>frmTranDayList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmCurrencyList.resx">
+      <DependentUpon>frmCurrencyList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTransactionFilter.resx">
+      <DependentUpon>frmTransactionFilter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmUserProfile.resx">
+      <DependentUpon>frmUserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmUserProfileList.resx">
+      <DependentUpon>frmUserProfileList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAccountOpen.resx">
+      <DependentUpon>frmAccountOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserPassword.resx">
+      <DependentUpon>frmUserPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserResetPassword.resx">
+      <DependentUpon>frmUserResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Account.Common.csproj">
+      <Project>{6976FE89-B7DB-4C4E-9362-6EF7FEB8B3E4}</Project>
+      <Name>Account.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\pnvn.BLL\Account.Business.csproj">
+      <Project>{D65C6C9C-9C4C-4CD8-8EF6-8D20DFE83DF3}</Project>
+      <Name>Account.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UIProviders\Account.UIProviders.csproj">
+      <Project>{1E66B8A6-8083-4615-807F-28BB17B54CFE}</Project>
+      <Name>Account.UIProviders</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\policy-256x256x32b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D65C6C9C-9C4C-4CD8-8EF6-8D20DFE83DF3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Account.Business</RootNamespace>
+    <AssemblyName>Account.Business</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.9.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.cs" />
+    <Compile Include="AccountGL.cs" />
+    <Compile Include="Account_Roles.cs" />
+    <Compile Include="Base\BaseAccount.cs" />
+    <Compile Include="Base\BaseAccountGL.cs" />
+    <Compile Include="Base\BaseBranches.cs" />
+    <Compile Include="Base\BaseCategories.cs" />
+    <Compile Include="Base\BaseAccountRoles.cs" />
+    <Compile Include="Base\BaseChannels.cs" />
+    <Compile Include="Base\BaseCurrency.cs" />
+    <Compile Include="Base\BaseEndOfDay.cs" />
+    <Compile Include="Base\BaseError.cs" />
+    <Compile Include="Base\BaseIndustry.cs" />
+    <Compile Include="Base\BaseSector.cs" />
+    <Compile Include="Base\BaseParameters.cs" />
+    <Compile Include="Base\BaseTrancode.cs" />
+    <Compile Include="Base\BaseTrancodedetail.cs" />
+    <Compile Include="Base\BaseTranday.cs" />
+    <Compile Include="Base\BaseUser.cs" />
+    <Compile Include="Base\BaseWorkingDays.cs" />
+    <Compile Include="Branches.cs" />
+    <Compile Include="Categories.cs" />
+    <Compile Include="ChannelCustomer.cs" />
+    <Compile Include="Channels.cs" />
+    <Compile Include="Currency.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="EndOfDay.cs" />
+    <Compile Include="Industry.cs" />
+    <Compile Include="MakeTranday.cs" />
+    <Compile Include="ChannelAccount.cs" />
+    <Compile Include="Base\BaseCustomer.cs" />
+    <Compile Include="Parameters.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ISO8583TranDay.cs" />
+    <Compile Include="Sector.cs" />
+    <Compile Include="Trancode.cs" />
+    <Compile Include="TranCodeDetail.cs" />
+    <Compile Include="Tranday.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="WorkingDay.cs" />
+    <Compile Include="XmlResponse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Account.Common.csproj">
+      <Project>{6976FE89-B7DB-4C4E-9362-6EF7FEB8B3E4}</Project>
+      <Name>Account.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\Account.Data.csproj">
+      <Project>{A3F3B8FA-8183-4D82-9ADE-AD2F054EC5C6}</Project>
+      <Name>Account.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

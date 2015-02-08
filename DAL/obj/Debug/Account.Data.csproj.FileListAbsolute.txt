@@ -1,0 +1,25 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Bin\Account.Data.dll
+E:\Projects\MerchantAccount\pnvnSolution\Bin\Account.Data.pdb
+E:\Projects\MerchantAccount\pnvnSolution\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.dll
+E:\Projects\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Bin\Account.Data.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Bin\Account.Data.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.csprojResolveAssemblyReference.cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Bin\Account.Data.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Bin\Account.Data.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\DAL\obj\Debug\Account.Data.pdb
+D:\Projects\pnvnSolution\Bin\Account.Data.dll
+D:\Projects\pnvnSolution\Bin\Account.Data.pdb
+D:\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.csprojResolveAssemblyReference.cache
+D:\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.dll
+D:\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.pdb

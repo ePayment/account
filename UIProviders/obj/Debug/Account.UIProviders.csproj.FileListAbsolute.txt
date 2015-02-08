@@ -1,0 +1,60 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\UIProviders.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\UIProviders.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\obj\Debug\UIProviders.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\obj\Debug\UIProviders.pdb
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\UIProviders.dll
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\UIProviders.pdb
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Business.dll
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Common.dll
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Data.dll
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\log4net.dll
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Common.pdb
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Business.pdb
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Data.pdb
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\UIProviders.dll
+E:\Projects\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\UIProviders.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\UIProviders.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\UIProviders.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Business.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Common.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Data.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\log4net.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Common.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Business.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Data.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\Account.UIProviders.csprojResolveAssemblyReference.cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\UIProviders.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\UIProviders.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\UIProviders.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\UIProviders.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Business.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Common.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Data.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\log4net.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Common.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Business.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\bin\Debug\Account.Data.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\Account.UIProviders.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\UIProviders.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\UIProviders\obj\Debug\UIProviders.pdb
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\UIProviders.dll
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\UIProviders.pdb
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Business.dll
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Common.dll
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Data.dll
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\log4net.dll
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Common.pdb
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Business.pdb
+D:\Projects\pnvnSolution\UIProviders\bin\Debug\Account.Data.pdb
+D:\Projects\pnvnSolution\UIProviders\obj\Debug\Account.UIProviders.csprojResolveAssemblyReference.cache
+D:\Projects\pnvnSolution\UIProviders\obj\Debug\UIProviders.dll
+D:\Projects\pnvnSolution\UIProviders\obj\Debug\UIProviders.pdb

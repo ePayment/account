@@ -1,0 +1,468 @@
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe.licenses
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Business.dll
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Common.dll
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Host.exe
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.MenuEnhanced.dll
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\log4net.dll
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.MenuEnhanced.pdb
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Host.pdb
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Data.dll
+D:\11. MERCHANT ACCOUNT\SRC\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe.licenses
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Business.dll
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Common.dll
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Host.exe
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.MenuEnhanced.dll
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\log4net.dll
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Data.dll
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.MenuEnhanced.pdb
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Host.pdb
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+E:\11. Merchan Account\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe.licenses
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Business.dll
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Common.dll
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\log4net.dll
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Data.dll
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\UIProviders.dll
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\Account.Host.Interface.exe.config
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe.licenses
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\Account.Host.Interface.exe
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\Account.Host.Interface.pdb
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\Account.Data.dll
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\Account.Business.dll
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\Account.Common.dll
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\Account.MenuEnhanced.dll
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\log4net.dll
+C:\Users\THANG\Desktop\AC\UIProviders\Account.Host.Interface\UIProviders.dll
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+C:\Documents and Settings\thuydo\Desktop\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmErrorList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmErrorList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfile.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfileList.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe.licenses
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Business.dll
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Common.dll
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Data.dll
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\log4net.dll
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\UIProviders.dll
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+E:\02. PAYNET COMPANY\MERCHANT ACCOUNT\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfile.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfileList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe.licenses
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\UIProviders.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountOpen.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountBlock.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTransactionFilter.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayDetail.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrencyList.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrency.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserPassword.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserResetPassword.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountBlock.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrency.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayDetail.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrencyList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTransactionFilter.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfile.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfileList.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountOpen.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserPassword.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserResetPassword.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\log4net.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csprojResolveAssemblyReference.cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountBlock.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrency.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayDetail.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrencyList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTransactionFilter.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfile.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfileList.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountOpen.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserPassword.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserResetPassword.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.Data.v7.1.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.Utils.v7.1.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraBars.v7.1.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraEditors.v7.1.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraGrid.v7.1.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraNavBar.v7.1.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\log4net.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csprojResolveAssemblyReference.cache
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountBlock.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrency.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayDetail.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrencyList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTransactionFilter.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfile.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfileList.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountOpen.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserPassword.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserResetPassword.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe.licenses
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.Data.v7.1.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.Utils.v7.1.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraBars.v7.1.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraEditors.v7.1.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraGrid.v7.1.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraNavBar.v7.1.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\log4net.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.dll
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+D:\My Libraries\Archived\Projects\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountBlock.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrency.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayDetail.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrencyList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTransactionFilter.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfile.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfileList.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountOpen.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserPassword.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserResetPassword.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.Data.v7.1.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.Utils.v7.1.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraBars.v7.1.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraEditors.v7.1.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraGrid.v7.1.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\DevExpress.XtraNavBar.v7.1.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\log4net.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe.config
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csprojResolveAssemblyReference.cache
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccount.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountBlock.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGL.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountGLList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRole.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountRoleList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmBranchList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCategoryList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannel.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmChannelList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrency.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomer.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCustomerList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmLogin.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmMain.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmParameterList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCode.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranCodeList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayDetail.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTranDayList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmCurrencyList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmTransactionFilter.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfile.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserProfileList.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmAccountOpen.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserPassword.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.frmUserResetPassword.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.Properties.Resources.resources
+D:\Projects\pnvnSolution\Account.Host.Interface\obj\Debug\Account.Host.Interface.csproj.GenerateResource.Cache
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Host.Interface.exe
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Host.Interface.pdb
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Business.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Common.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\DevExpress.Data.v7.1.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\DevExpress.Utils.v7.1.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\DevExpress.XtraBars.v7.1.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\DevExpress.XtraEditors.v7.1.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\DevExpress.XtraGrid.v7.1.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\DevExpress.XtraNavBar.v7.1.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\log4net.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\UIProviders.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Data.dll
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Common.pdb
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Business.pdb
+D:\Projects\pnvnSolution\Account.Host.Interface\UIProviders.pdb
+D:\Projects\pnvnSolution\Account.Host.Interface\Account.Data.pdb

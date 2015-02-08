@@ -1,0 +1,17 @@
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\bin\Debug\pnvn.BLL.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\pnvn.BLL.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\bin\Debug\pnvn.BLL.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\pnvn.BLL.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\bin\Debug\Common.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\bin\Debug\log4net.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\bin\Debug\Common.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\pnvn.BLL.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\pnvn.BLL.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\pnvn.BLL.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\pnvn.BLL.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\pnvn.BLL.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\pnvn.BLL.pdb

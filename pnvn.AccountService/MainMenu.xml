@@ -1,0 +1,31 @@
+﻿<root>
+  <TopLevelMenu Name="mnuFile" Text="&amp;Hệ thống">
+    <MenuItem Name="mnuFileBegin" Text="&amp;Khởi tạo hệ thống" OnClick="_Begin" />
+    <MenuItem Text="-" />
+    <MenuItem Name="mnuFileEOD" Text="Cuối ngày" >
+      <MenuItem Name="mnuFileEODClose" Text="Đón&amp;g, mở sổ ngày" OnClick="_Closed" />
+    </MenuItem>
+    <MenuItem Text="-" />
+    <MenuItem Name="mnuFileExit" Text="Thoát khỏi chương trình" OnClick="_Exit" />
+  </TopLevelMenu>
+  <TopLevelMenu Name="mnuTransaction" Text="&amp;Hồ sơ">
+    <MenuItem Name="mnuTransactionCustomer" Text="Khách hàng" OnClick="_Customer" />
+    <MenuItem Text="-" />
+    <MenuItem Name="mnuTransactionAccount" Text="Tài khoản" OnClick="_Account" />
+  </TopLevelMenu>
+  <TopLevelMenu Name="mnuTool" Text="&amp;Danh mục">
+    <MenuItem Name="mnuToolSystemParameters" Text="&amp;Tham số hệ thống" OnClick="_SystemParameters" />
+    <MenuItem Text="-" />
+    <MenuItem Name="mnuToolCategories" Text="Danh sách loại định khoản" OnClick="_Categories" />
+    <MenuItem Name="mnuToolTranCode" Text="Danh sách định khoản" OnClick="_TranCode" />
+    <MenuItem Name="mnuToolAccount_Roles" Text="Danh sách điều kiện định khoản" OnClick="_AccountRoles" />
+    <MenuItem Text="-" />
+    <MenuItem Name="mnuToolChannels" Text="Danh sách kênh giao dịch" OnClick="_Channels" />
+  </TopLevelMenu>
+
+  <TopLevelMenu Name="mnuHelp" Text="&amp;Trợ giúp">
+    <MenuItem Name="mnuHelpContents" Text="Nội dung" OnClick="_Contents" />
+    <MenuItem Text="-" />
+    <MenuItem Name="mnuHelpAbout" Text="Thông tin sản phẩm" OnClick="_About" />
+  </TopLevelMenu>
+</root>

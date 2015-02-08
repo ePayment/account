@@ -1,0 +1,15 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Switching.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\obj\Debug\Account.Switching.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\obj\Debug\Account.Switching.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Switching.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Switching.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.Switching\Account.Data.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.Switching\obj\Debug\Account.Switching.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.Switching\obj\Debug\Account.Switching.exe

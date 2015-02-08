@@ -1,0 +1,68 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostService.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostServiceInstaller.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.csproj.GenerateResource.Cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe.config
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Business.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Common.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\log4net.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Data.dll
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Common.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Business.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Data.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostService.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostServiceInstaller.resources
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.exe
+E:\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe.config
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Business.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Common.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\log4net.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Data.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Common.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Business.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Data.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.csprojResolveAssemblyReference.cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostService.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostServiceInstaller.resources
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.csproj.GenerateResource.Cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.exe
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe.config
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Business.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Common.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\log4net.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Data.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Common.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Business.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\bin\Debug\Account.Data.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostService.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.Host.HostServiceInstaller.resources
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.csproj.GenerateResource.Cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.exe
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.pdb
+D:\Projects\pnvnSolution\Account.HostService\bin\Debug\Account.HostService.exe.config
+D:\Projects\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.exe
+D:\Projects\pnvnSolution\Account.HostService\obj\Debug\Account.HostService.pdb

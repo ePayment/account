@@ -1,0 +1,16 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\obj\Release\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\obj\Release\Account.EndOfDay.csproj.GenerateResource.Cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\obj\Release\Account.EndOfDay.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\obj\Release\Account.EndOfDay.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\obj\Release\Account.Host.EODService.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\obj\Release\Account.Host.EODServiceInstaller.resources

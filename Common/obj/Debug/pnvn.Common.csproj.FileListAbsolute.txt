@@ -1,0 +1,13 @@
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Common\bin\Debug\log4net.xml
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Common\bin\Debug\Common.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Debug\Common.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Common.dll
+C:\Documents and Settings\THANG\My Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Debug\Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Common\obj\Debug\Common.pdb

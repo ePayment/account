@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ee457dd9-d42c-4ca5-9563-9369c97895a0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://127.0.0.1:8000/netcash" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="netcash.xsd" MetadataType="Schema" ID="5940faaf-2cd2-4324-8a0a-e5b206520c6f" SourceId="1" SourceUrl="http://127.0.0.1:8000/netcash?xsd=xsd1" />
+    <MetadataFile FileName="AccountService1.wsdl" MetadataType="Wsdl" ID="9be68082-a5cc-46ef-8f48-dbc222b70b42" SourceId="1" SourceUrl="http://127.0.0.1:8000/netcash" />
+    <MetadataFile FileName="netcash1.xsd" MetadataType="Schema" ID="907bbd0e-9117-47ad-8f98-ce1eb81a9989" SourceId="1" SourceUrl="http://127.0.0.1:8000/netcash?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

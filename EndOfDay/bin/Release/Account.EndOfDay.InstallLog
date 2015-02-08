@@ -1,0 +1,69 @@
+﻿Installing assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Installing service Account.EndOfDayService...
+Service Account.EndOfDayService has been successfully installed.
+Creating EventLog source Account.EndOfDayService in log Application...
+Committing assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Uninstalling assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Removing EventLog source Account.EndOfDayService.
+Service Account.EndOfDayService is being removed from the system...
+Service Account.EndOfDayService was successfully removed from the system.
+Installing assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Installing service Account.EndOfDayService...
+Service Account.EndOfDayService has been successfully installed.
+Creating EventLog source Account.EndOfDayService in log Application...
+Committing assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Uninstalling assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Uninstalling assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Installing assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Installing service Account.HostService...
+Service Account.HostService has been successfully installed.
+Creating EventLog source Account.HostService in log Application...
+Installing service Account.EndOfDayService...
+Creating EventLog source Account.EndOfDayService in log Application...
+Rolling back assembly 'C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.exe
+   i = 
+   logfile = C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\EndOfDay\bin\Release\Account.EndOfDay.InstallLog
+Restoring event log to previous state for source Account.EndOfDayService.
+Restoring event log to previous state for source Account.HostService.
+Service Account.HostService is being removed from the system...
+Service Account.HostService was successfully removed from the system.

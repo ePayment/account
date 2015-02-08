@@ -1,0 +1,6 @@
+C:\Users\THANG\Desktop\AC\For Huy\AccountTest\bin\AccountTest.exe.config
+C:\Users\THANG\Desktop\AC\For Huy\AccountTest\bin\AccountTest.exe
+C:\Users\THANG\Desktop\AC\For Huy\AccountTest\bin\AccountTest.pdb
+C:\Users\THANG\Desktop\AC\For Huy\AccountTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Desktop\AC\For Huy\AccountTest\obj\Debug\AccountTest.exe
+C:\Users\THANG\Desktop\AC\For Huy\AccountTest\obj\Debug\AccountTest.pdb

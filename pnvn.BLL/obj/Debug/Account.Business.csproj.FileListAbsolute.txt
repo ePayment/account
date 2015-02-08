@@ -1,0 +1,25 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\Bin\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.pdb
+E:\Projects\MerchantAccount\pnvnSolution\Bin\Account.Business.dll
+E:\Projects\MerchantAccount\pnvnSolution\Bin\Account.Business.pdb
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.dll
+E:\Projects\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Bin\Account.Business.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\Bin\Account.Business.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.csprojResolveAssemblyReference.cache
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.dll
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Bin\Account.Business.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\Bin\Account.Business.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.dll
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.pdb
+D:\Projects\pnvnSolution\Bin\Account.Business.dll
+D:\Projects\pnvnSolution\Bin\Account.Business.pdb
+D:\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.csprojResolveAssemblyReference.cache
+D:\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.dll
+D:\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.pdb

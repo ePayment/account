@@ -1,0 +1,7 @@
+D:\Codes\Multi Lang\MainMenuEnhanced\MainMenuEnhanced\bin\Debug\MainMenuEnhanced.dll
+D:\Codes\Multi Lang\MainMenuEnhanced\MainMenuEnhanced\bin\Debug\MainMenuEnhanced.pdb
+D:\Codes\Multi Lang\MainMenuEnhanced\MainMenuEnhanced\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes\Multi Lang\MainMenuEnhanced\MainMenuEnhanced\obj\Debug\MainMenuEnhanced.MenuStripEnhanced.resources
+D:\Codes\Multi Lang\MainMenuEnhanced\MainMenuEnhanced\obj\Debug\MenuStripEnhanced.csproj.GenerateResource.Cache
+D:\Codes\Multi Lang\MainMenuEnhanced\MainMenuEnhanced\obj\Debug\MainMenuEnhanced.dll
+D:\Codes\Multi Lang\MainMenuEnhanced\MainMenuEnhanced\obj\Debug\MainMenuEnhanced.pdb

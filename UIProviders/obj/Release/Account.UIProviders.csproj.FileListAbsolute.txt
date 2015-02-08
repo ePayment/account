@@ -1,0 +1,12 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\UIProviders.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\UIProviders.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\log4net.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\obj\Release\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\obj\Release\UIProviders.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\obj\Release\UIProviders.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\UIProviders\bin\Release\Account.Business.pdb

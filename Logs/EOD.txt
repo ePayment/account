@@ -1,0 +1,100 @@
+﻿[Header]
+2010-03-20 02:25:53,756 [3328] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-20 02:25:53,810 [3328] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-20 02:27:58,424 [3328] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-20 02:29:51,770 [5916] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-20 02:29:51,823 [5916] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-20 02:29:51,823 [5916] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 23:59:59
+2010-03-20 02:30:15,126 [5916] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-20 02:31:07,969 [764] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-20 02:31:08,020 [764] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-20 02:31:08,020 [764] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 02:35:59
+2010-03-20 16:49:13,250 [4796] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-20 16:50:21,134 [3004] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-20 16:50:21,179 [3004] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-20 16:50:21,179 [3004] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 16:50:59
+2010-03-20 16:51:32,763 [3004] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-21 00:22:29,267 [3608] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-21 00:22:29,320 [3608] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-21 00:22:29,375 [3608] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 16:50
+2010-03-21 00:23:46,116 [3608] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-21 00:24:02,130 [5976] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-21 00:24:02,188 [5976] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-21 00:24:02,189 [5976] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 0:25
+2010-03-21 00:25:02,203 [5976] INFO  Account.EndOfDay.EODService [(null)] - Started job End of day
+2010-03-21 00:25:13,971 [5976] ERROR Account.Data.SqlServer.SqlServerHelper [(null)] - System.Data.SqlClient.SqlException: Could not find stored procedure 'Exec RunEOD'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Account.Data.SqlServer.SqlServerHelper.Execute() in C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\SqlServer\SqlServerHelper.cs:line 82
+2010-03-21 00:25:14,239 [5976] ERROR Account.Data.SqlServer.SqlServerHelper [(null)] - Rollback SqlTransaction
+2010-03-21 00:25:14,303 [5976] ERROR Account.EndOfDay.EODService [(null)] - System.Data.SqlClient.SqlException: Could not find stored procedure 'Exec RunEOD'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Account.Data.SqlServer.SqlServerHelper.Execute() in C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\DAL\SqlServer\SqlServerHelper.cs:line 82
+2010-03-21 00:27:26,549 [5976] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-21 00:27:42,651 [2812] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-21 00:27:42,708 [2812] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-21 00:27:42,709 [2812] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 0:25
+2010-03-21 00:27:48,005 [2812] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-21 00:28:19,030 [2988] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-21 00:28:19,084 [2988] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-21 00:28:19,086 [2988] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 0:29
+2010-03-21 00:29:19,099 [2988] INFO  Account.EndOfDay.EODService [(null)] - Started job End of day
+2010-03-21 00:29:22,851 [2988] INFO  Account.EndOfDay.EODService [(null)] - Finished job End of day
+2010-03-21 00:31:29,576 [2988] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-03-23 19:47:20,640 [1548] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-23 19:47:22,031 [1548] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-23 19:47:22,093 [1548] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 0:29
+2010-03-24 00:29:57,208 [1548] INFO  Account.EndOfDay.EODService [(null)] - Started job End of day
+2010-03-24 00:29:58,584 [1548] INFO  Account.EndOfDay.EODService [(null)] - Finished job End of day
+[Footer]
+[Header]
+2010-03-24 09:10:47,375 [1532] INFO  Account.EndOfDay.EODService [(null)] - Starting service End of day
+2010-03-24 09:10:49,203 [1532] INFO  Account.EndOfDay.EODService [(null)] - Started service End of day
+2010-03-24 09:10:49,281 [1532] INFO  Account.EndOfDay.EODService [(null)] - End of day run at: 0:29
+2010-03-24 09:46:20,139 [1532] INFO  Account.EndOfDay.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+[Footer]
+[Header]
+2010-04-17 23:54:15,741 [5340] INFO  Account.Host.EODService [(null)] - Starting service End of day
+2010-04-17 23:54:15,876 [5340] INFO  Account.Host.EODService [(null)] - Started service End of day
+2010-04-17 23:54:15,877 [5340] INFO  Account.Host.EODService [(null)] - End of day run at: 0:29
+2010-04-17 23:54:50,136 [5340] INFO  Account.Host.EODService [(null)] - Stoped service End of day
+[Footer]
+[Header]
+2010-04-19 11:59:15,050 [3500] INFO  Account.Host.EODService [(null)] - Starting service End of day
+2010-04-19 11:59:15,245 [3500] INFO  Account.Host.EODService [(null)] - Started service End of day
+2010-04-19 11:59:15,246 [3500] INFO  Account.Host.EODService [(null)] - End of day run at: 0:29
+2010-04-19 11:59:29,460 [3500] INFO  Account.Host.EODService [(null)] - Stoped service End of day
+[Footer]

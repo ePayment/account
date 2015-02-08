@@ -1,0 +1,17 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Host.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Host.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Host.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Business.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Common.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.MenuEnhanced.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Data.dll
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.MenuEnhanced.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Common.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Business.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\bin\Release\Account.Data.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\obj\Release\Account.Host.Forms.AboutBox.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\obj\Release\Account.Host.SystemConsole.resources
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\obj\Release\Account.Host.csproj.GenerateResource.Cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\obj\Release\Account.Host.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\pnvn.AccountService\obj\Release\Account.Host.pdb

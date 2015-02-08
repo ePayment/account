@@ -1,0 +1,23 @@
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\bin\AccountTest.exe.config
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\bin\AccountTest.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\bin\AccountTest.pdb
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.exe
+C:\Users\THANG\Documents\Visual Studio 2008\Projects\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.pdb
+E:\Projects\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.exe.config
+E:\Projects\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.exe
+E:\Projects\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.pdb
+E:\Projects\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.exe
+E:\Projects\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.exe.config
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.exe
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.pdb
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.exe
+D:\UnCategory\Projects\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.exe.config
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.exe
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\ConsoleTest\bin\AccountTest.pdb
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.exe
+F:\Projects\ePayment\MerchantAccount\pnvnSolution\ConsoleTest\obj\Debug\AccountTest.pdb
