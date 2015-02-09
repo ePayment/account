@@ -30,11 +30,11 @@ namespace Account.Host
 
             ServiceHostEnhanced[] host;
             Channels channels;
-            List<Channel_Info> list;
+            dynamic[] list;
             int i = 0;
             channels = new Channels();
             list = channels.GetAllChannels();
-            host = new ServiceHostEnhanced[list.Count];
+            host = new ServiceHostEnhanced[list.Length];
             foreach (Channel_Info channel in list)
             {
                 host[i] = new ServiceHostEnhanced(channel);

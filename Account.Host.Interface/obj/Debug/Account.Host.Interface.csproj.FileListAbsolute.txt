@@ -466,3 +466,6 @@ D:\Projects\pnvnSolution\Account.Host.Interface\Account.Common.pdb
 D:\Projects\pnvnSolution\Account.Host.Interface\Account.Business.pdb
 D:\Projects\pnvnSolution\Account.Host.Interface\UIProviders.pdb
 D:\Projects\pnvnSolution\Account.Host.Interface\Account.Data.pdb
+D:\Projects\account\Account.Host.Interface\Account.Host.Interface.exe.config
+D:\Projects\account\Account.Host.Interface\obj\Debug\Account.Host.Interface.exe
+D:\Projects\account\Account.Host.Interface\obj\Debug\Account.Host.Interface.pdb

@@ -23,3 +23,8 @@ D:\Projects\pnvnSolution\Bin\Account.Data.pdb
 D:\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.csprojResolveAssemblyReference.cache
 D:\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.dll
 D:\Projects\pnvnSolution\DAL\obj\Debug\Account.Data.pdb
+D:\Projects\account\DAL\obj\Debug\Account.Data.csprojResolveAssemblyReference.cache
+D:\Projects\account\DAL\obj\Debug\Account.Data.dll
+D:\Projects\account\Bin\Account.Data.dll
+D:\Projects\account\Bin\Account.Data.pdb
+D:\Projects\account\DAL\obj\Debug\Account.Data.pdb

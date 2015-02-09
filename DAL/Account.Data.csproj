@@ -67,6 +67,15 @@
     </Reference>
     <Reference Include="Microsoft.Build.Tasks.v4.0" />
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MongoDB.Bson">
+      <HintPath>..\packages\mongocsharpdriver.1.10.0\lib\net35\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>..\packages\mongocsharpdriver.1.10.0\lib\net35\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
@@ -82,6 +91,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Mongo\Account.cs" />
+    <Compile Include="Mongo\Categories.cs" />
+    <Compile Include="Mongo\Channels.cs" />
+    <Compile Include="Mongo\Currency.cs" />
+    <Compile Include="Mongo\Industry.cs" />
+    <Compile Include="Mongo\Parameter.cs" />
+    <Compile Include="Mongo\Sector.cs" />
+    <Compile Include="Mongo\TranCodeDetail.cs" />
     <Compile Include="Oracle\Account.cs" />
     <Compile Include="SqlServer\Channels.cs" />
     <Compile Include="SqlServer\EndOfDay.cs" />
@@ -112,7 +128,9 @@
       <Name>Account.Common</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>

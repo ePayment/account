@@ -7,6 +7,8 @@ using System.Text;
 
 using System.Dynamic;
 using MongoDB.Driver;
+using MongoDB.Driver.Builders;
+using ePayment.DataProvider;
 namespace Account.Data.Mongo
 {
     public class D_Channels
@@ -17,30 +19,11 @@ namespace Account.Data.Mongo
             ePayment.DataProvider.MongoHelper.MongoServer = "mongodb://127.0.0.1:27017";
         }
 
-        public bool CreateOneChannels(Channel_Info objChannelsInfo)
+        public bool CreateOneChannels(dynamic objChannelsInfo)
         {
             try
-            {
-                dynamic channel_Info = new ePayment.DataProvider.DynamicObj();                
-                channel_Info.Name = objChannelsInfo.Name;
-                channel_Info.Descript = objChannelsInfo.Descript;
-                channel_Info.Service_port = objChannelsInfo.Service_Port;
-                channel_Info.Iso_port = objChannelsInfo.ISO_Port;
-                channel_Info.Listener_host = objChannelsInfo.Listener_Host;
-                channel_Info.Currency_Code = objChannelsInfo.Currency_Code;
-                channel_Info.Categories = objChannelsInfo.Categories;
-                channel_Info.Branch_ID = objChannelsInfo.Branch;
-                channel_Info.User_ID = objChannelsInfo.UserLogin;
-                channel_Info.Trancode_AddFund = objChannelsInfo.AddFund_Trancode;
-                channel_Info.Trancode_Retail = objChannelsInfo.Retail_Trancode;
-                channel_Info.Trancode_Fund_Transfer = objChannelsInfo.FundTranfer_Trancode;
-                channel_Info.Security = objChannelsInfo.Security;
-                channel_Info.Private_Key = objChannelsInfo.Key;
-                channel_Info.CreateDated = objChannelsInfo.Create_Date;
-                channel_Info.Last_Date = objChannelsInfo.Last_Date;
-                channel_Info.UserCreate = objChannelsInfo.User_Create;
-              
-                return ePayment.DataProvider.MongoHelper.Save("Channels", channel_Info);
+            {       
+                return ePayment.DataProvider.MongoHelper.Save("Channels", objChannelsInfo);
             }
             catch (Exception ex)
             {
@@ -49,29 +32,11 @@ namespace Account.Data.Mongo
             }
         }
 
-        public bool EditOneChannels(Channel_Info objChannelsInfo)
+        public bool EditOneChannels(dynamic objChannelsInfo)
         {
             try
             {
-                dynamic channel_Info = new ePayment.DataProvider.DynamicObj();
-                channel_Info.Name = objChannelsInfo.Name;
-                channel_Info.Descript = objChannelsInfo.Descript;
-                channel_Info.Service_port = objChannelsInfo.Service_Port;
-                channel_Info.Iso_port = objChannelsInfo.ISO_Port;
-                channel_Info.Listener_host = objChannelsInfo.Listener_Host;
-                channel_Info.Currency_Code = objChannelsInfo.Currency_Code;
-                channel_Info.Categories = objChannelsInfo.Categories;
-                channel_Info.Branch_ID = objChannelsInfo.Branch;
-                channel_Info.User_ID = objChannelsInfo.UserLogin;
-                channel_Info.Trancode_AddFund = objChannelsInfo.AddFund_Trancode;
-                channel_Info.Trancode_Retail = objChannelsInfo.Retail_Trancode;
-                channel_Info.Trancode_Fund_Transfer = objChannelsInfo.FundTranfer_Trancode;
-                channel_Info.Security = objChannelsInfo.Security;
-                channel_Info.Private_Key = objChannelsInfo.Key;
-                channel_Info.CreateDated = objChannelsInfo.Create_Date;
-                channel_Info.Last_Date = objChannelsInfo.Last_Date;
-                channel_Info.UserCreate = objChannelsInfo.User_Create;
-                return ePayment.DataProvider.MongoHelper.Save("Channels", channel_Info);
+                return ePayment.DataProvider.MongoHelper.Save("Channels", objChannelsInfo);
             }
             catch (Exception ex)
             {
@@ -98,7 +63,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
+                IMongoQuery query = Query.EQ("_id",id);
                 return ePayment.DataProvider.MongoHelper.Get("Channels", query);
 
             }
@@ -109,20 +74,26 @@ namespace Account.Data.Mongo
             }
         }
 
-        public ePayment.DataProvider.DynamicObj[] GetAllChannels()
+        public DynamicObj[] GetAllChannels()
         {
+            DynamicObj[] list = new DynamicObj[] { };
             try
-            {
-                
-                IMongoQuery query;             
-                return ePayment.DataProvider.MongoHelper.List("Channels", query);
-
+            {     
+                return ePayment.DataProvider.MongoHelper.List("Channels", null);
+                //foreach (dynamic c in _list)
+                //{
+                //    list.Add(
+                //        new Channel_Info{ ID = c.id, Name = c.name, Service_Port = c.service_port, ISO_Port = c.ISO_Port, Listener_Host = c.Listener_Host,
+                //            Currency_Code = c.Currency
+                //        }
+                //        )
+                //}
             }
             catch (Exception ex)
             {
                 //Logger.Error(ex); throw ex; 
-                return null;
             }
+            return list;
         }
 
     }

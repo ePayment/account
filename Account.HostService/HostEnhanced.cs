@@ -21,7 +21,7 @@ namespace Account.Host
     public class ServiceHostEnhanced
     {
         ServiceHost host = null;
-        public Channel_Info channel;
+        public dynamic channel;
         string urlservice;
         string urlmeta;
         ILog logger;
@@ -29,7 +29,7 @@ namespace Account.Host
 
         public CommunicationState Status
         { get { return _host_state; } }
-        public ServiceHostEnhanced(Channel_Info _channel)
+        public ServiceHostEnhanced(dynamic _channel)
         {
             channel = _channel;
             logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);

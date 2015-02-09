@@ -7,6 +7,7 @@ using System.Text;
 
 using System.Dynamic;
 using MongoDB.Driver;
+using MongoDB.Driver.Builders;
 namespace Account.Data.Mongo
 {
     public class D_Categories
@@ -17,15 +18,15 @@ namespace Account.Data.Mongo
             ePayment.DataProvider.MongoHelper.MongoServer = "mongodb://127.0.0.1:27017";
         }
 
-        public bool CreateOneCategories(Categories_Info objCategoriesInfo)
+        public bool CreateOneCategories(dynamic objCategoriesInfo)
         {
             try
             {
-                dynamic categories_info = new ePayment.DataProvider.DynamicObj();
-                categories_info.ID = objCategoriesInfo.ID;
-                categories_info.Name = objCategoriesInfo.Name;
-                categories_info.Account_GL = objCategoriesInfo.Account_GL;
-                return ePayment.DataProvider.MongoHelper.Save("Categories", categories_info);
+                //dynamic categories_info = new ePayment.DataProvider.DynamicObj();
+                //categories_info.ID = objCategoriesInfo.ID;
+                //categories_info.Name = objCategoriesInfo.Name;
+                //categories_info.Account_GL = objCategoriesInfo.Account_GL;
+                return ePayment.DataProvider.MongoHelper.Save("Categories", objCategoriesInfo);
             }
             catch (Exception ex)
             {
@@ -34,15 +35,15 @@ namespace Account.Data.Mongo
             }
         }
 
-        public bool EditOneCategories(Categories_Info objCategoriesInfo)
+        public bool EditOneCategories(dynamic objCategoriesInfo)
         {
             try
             {
-                dynamic categories_info = new ePayment.DataProvider.DynamicObj();
-                categories_info.ID = objCategoriesInfo.ID;
-                categories_info.Name = objCategoriesInfo.Name;
-                categories_info.Account_GL = objCategoriesInfo.Account_GL;
-                return ePayment.DataProvider.MongoHelper.Save("Categories", categories_info);
+                //dynamic categories_info = new ePayment.DataProvider.DynamicObj();
+                //categories_info.ID = objCategoriesInfo.ID;
+                //categories_info.Name = objCategoriesInfo.Name;
+                //categories_info.Account_GL = objCategoriesInfo.Account_GL;
+                return ePayment.DataProvider.MongoHelper.Save("Categories", objCategoriesInfo);
             }
             catch (Exception ex)
             {
@@ -55,8 +56,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                return ePayment.DataProvider.MongoHelper.Delete("Categories", id);
-
+                return ePayment.DataProvider.MongoHelper.Delete("Categories",id);
             }
             catch (Exception ex)
             {
@@ -69,7 +69,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
+                IMongoQuery query = Query.EQ("_id", id);
                 return ePayment.DataProvider.MongoHelper.Get("Categories", query);
 
             }
@@ -84,8 +84,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Categories", query);
+                return ePayment.DataProvider.MongoHelper.List("Categories", null);
 
             }
             catch (Exception ex)

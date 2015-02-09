@@ -7,6 +7,7 @@ using System.Text;
 
 using System.Dynamic;
 using MongoDB.Driver;
+using MongoDB.Driver.Builders;
 namespace Account.Data.Mongo
 {
     public class D_Industry
@@ -69,8 +70,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Industry", query);
+                return ePayment.DataProvider.MongoHelper.List("Industry", null);
 
             }
             catch (Exception ex)
@@ -83,7 +83,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
+                IMongoQuery query = Query.EQ("_id", id);
                 return ePayment.DataProvider.MongoHelper.Get("Industry", query);
 
             }

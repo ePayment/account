@@ -4,12 +4,13 @@ using System.Text;
 
 using Account.Business.Base;
 using Account.Common.Entities;
+using ePayment.DataProvider;
 
 namespace Account.Business
 {
     public partial class Channels:BaseChannels
     {
-        public new int Insert(Channel_Info obj)
+        public int Insert(dynamic obj)
         {
             if (obj == null)
             { 
@@ -87,13 +88,13 @@ namespace Account.Business
                 SetError(98, "Channels user create is null or empty");
                 return Error_Number;
             }
-            if (base.Insert(obj) != 0)
+            if (base.Insert((DynamicObj)obj) != 0)
                 SetError(0, string.Empty);
             else
                 SetError(99, Error_Message);
             return Error_Number;
         }
-        public new int Update(Channel_Info obj)
+        public int Update(dynamic obj)
         {
             if (obj == null)
             {
@@ -170,12 +171,12 @@ namespace Account.Business
                 SetError(98, "Channels user create is null or empty");
                 return Error_Number;
             }
-            if (base.GetChannelByName(obj.Name) == null)
+            if (base.GetChannelByName((string)obj.Name) == null)
             {
                 SetError(99, "Channels not find");
                 return Error_Number;
             }
-            if (base.Update(obj) != 0)
+            if (base.Update((DynamicObj)obj) != 0)
                 SetError(0, string.Empty);
             else
                 SetError(99, Error_Message);
@@ -188,7 +189,7 @@ namespace Account.Business
                 SetError(98, "Channel name is null or empty");
                 return Error_Number;
             }
-            Channel_Info obj = base.GetChannelByName(channelName);
+            DynamicObj obj = base.GetChannelByName(channelName);
             if (obj == null)
             {
                 SetError(98, "Channel not find");
@@ -200,9 +201,9 @@ namespace Account.Business
                 SetError(99, Error_Message);
             return Error_Number;
         }
-        public Channel_Info GetChannelsByName(string channelName)
+        public DynamicObj GetChannelsByName(string channelName)
         { return base.GetChannelByName(channelName); }
-        public List<Channel_Info> GetAllChannels()
+        public DynamicObj[] GetAllChannels()
         { return base.GetAllChannel(); }
     }
 }

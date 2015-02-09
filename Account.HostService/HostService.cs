@@ -11,6 +11,7 @@ using Account.Business;
 using Account.Common.Entities;
 
 using log4net;
+using ePayment.DataProvider;
 
 namespace Account.Host
 {
@@ -19,7 +20,7 @@ namespace Account.Host
         private ILog logger;
         private ServiceHostEnhanced[] host;
         private Channels channels;
-        private List<Channel_Info> list;
+        private dynamic[] list;
         public HostService()
         {
             InitializeComponent();
@@ -33,8 +34,8 @@ namespace Account.Host
                 int i = 0;
                 channels = new Channels();
                 list = channels.GetAllChannels();
-                host = new ServiceHostEnhanced[list.Count];
-                foreach (Channel_Info channel in list)
+                host = new ServiceHostEnhanced[list.Length];
+                foreach (dynamic channel in list)
                 {
                     host[i] = new ServiceHostEnhanced(channel);
                     host[i].Open();

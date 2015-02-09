@@ -23,3 +23,8 @@ D:\Projects\pnvnSolution\Bin\Account.Business.pdb
 D:\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.csprojResolveAssemblyReference.cache
 D:\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.dll
 D:\Projects\pnvnSolution\pnvn.BLL\obj\Debug\Account.Business.pdb
+D:\Projects\account\pnvn.BLL\obj\Debug\Account.Business.csprojResolveAssemblyReference.cache
+D:\Projects\account\pnvn.BLL\obj\Debug\Account.Business.dll
+D:\Projects\account\pnvn.BLL\obj\Debug\Account.Business.pdb
+D:\Projects\account\Bin\Account.Business.dll
+D:\Projects\account\Bin\Account.Business.pdb

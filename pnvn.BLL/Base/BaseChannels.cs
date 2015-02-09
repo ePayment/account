@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 
 using Account.Common.Entities;
-using Account.Data.SqlServer;
+//using Account.Data.SqlServer;
+using Account.Data.Mongo;
+using ePayment.DataProvider;
 
 namespace Account.Business.Base
 {
@@ -12,48 +14,43 @@ namespace Account.Business.Base
         protected D_Channels _dalChannel;
         public BaseChannels()
         { _dalChannel = new D_Channels(); }
-        protected int Insert(Channel_Info obj)
+        public int Insert(DynamicObj obj)
         {
             if (obj == null)
             {
                 SetError(98, "Invalid data input");
                 return Error_Number;
             }
-            _dalChannel.CreateOneChannel(obj);
-            if (_dalChannel.Execute())
-                return _dalChannel.LastRecordsEffected;
-            else
-                throw _dalChannel.GetException;
+            _dalChannel.CreateOneChannels(obj);
+            return 1;
         }
-        protected int Update(Channel_Info obj)
+        public int Update(DynamicObj obj)
         {
             if (obj == null)
             {
                 SetError(98, "Invalid data input");
                 return Error_Number;
             }
-            _dalChannel.EditOneChannel(obj);
-            if (_dalChannel.Execute())
-                return _dalChannel.LastRecordsEffected;
-            else
-                throw _dalChannel.GetException;
+            _dalChannel.EditOneChannels(obj);
+            return 1;
+            //if (_dalChannel.Execute())
+            //    return _dalChannel.LastRecordsEffected;
+            //else
+            //    throw _dalChannel.GetException;
         }
-        protected int Delete(Channel_Info obj)
+        protected int Delete(dynamic obj)
         {
             if (obj == null)
             {
                 SetError(98, "Invalid data input");
                 return Error_Number;
             }
-            _dalChannel.RemoveOneChannel(obj.Name);
-            if (_dalChannel.Execute())
-                return _dalChannel.LastRecordsEffected;
-            else
-                throw _dalChannel.GetException;
+            _dalChannel.RemoveOneChannels(obj.Name);
+            return 1;
         }
-        protected Channel_Info GetChannelByName(string name)
-        { return _dalChannel.GetOneChannel(name); }
-        protected List<Channel_Info> GetAllChannel()
+        protected dynamic GetChannelByName(string name)
+        { return _dalChannel.GetOneChannels(name); }
+        protected ePayment.DataProvider.DynamicObj[] GetAllChannel()
         { return _dalChannel.GetAllChannels(); }
 
     }

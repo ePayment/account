@@ -7,6 +7,7 @@ using System.Text;
 
 using System.Dynamic;
 using MongoDB.Driver;
+using MongoDB.Driver.Builders;
 
 namespace Account.Data.Mongo
 {
@@ -95,8 +96,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("TranCodeDetail", query);
+                return ePayment.DataProvider.MongoHelper.List("TranCodeDetail", null);
 
             }
             catch (Exception ex)
@@ -110,8 +110,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.Get("TranCodeDetail", query);
+                return ePayment.DataProvider.MongoHelper.Get("TranCodeDetail", null);
 
             }
             catch (Exception ex)
@@ -125,7 +124,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
+                IMongoQuery query = Query.EQ("code", trancode);
                 return ePayment.DataProvider.MongoHelper.Get("TranCodeDetail", query);
 
             }

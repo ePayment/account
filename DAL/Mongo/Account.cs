@@ -7,6 +7,7 @@ using System.Text;
 using System.Dynamic;
 
 using MongoDB.Driver;
+using MongoDB.Driver.Builders;
 
 
 namespace Account.Data.Mongo
@@ -168,7 +169,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
+                IMongoQuery query = Query.EQ("_id", accountId);
                 return ePayment.DataProvider.MongoHelper.Get("Account", query);
 
             }
@@ -183,7 +184,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
+                IMongoQuery query = Query.EQ("_id", branchId);
                 return ePayment.DataProvider.MongoHelper.Get("Account", query);
 
             }
@@ -199,7 +200,7 @@ namespace Account.Data.Mongo
             try
             {
                 IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Account", query);
+                return ePayment.DataProvider.MongoHelper.List("Account", null);
 
             }
             catch (Exception ex)
@@ -214,7 +215,7 @@ namespace Account.Data.Mongo
             try
             {
                 IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Account", query);
+                return ePayment.DataProvider.MongoHelper.List("Account", null);
 
             }
             catch (Exception ex)
@@ -229,7 +230,7 @@ namespace Account.Data.Mongo
             try
             {
                 IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Account", query);
+                return ePayment.DataProvider.MongoHelper.List("Account", null);
 
             }
             catch (Exception ex)
@@ -244,7 +245,7 @@ namespace Account.Data.Mongo
             try
             {
                 IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Account", query);
+                return ePayment.DataProvider.MongoHelper.List("Account", null);
 
             }
             catch (Exception ex)
@@ -260,7 +261,7 @@ namespace Account.Data.Mongo
             {
                 
                 IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Account", query);
+                return ePayment.DataProvider.MongoHelper.List("Account", null);
 
             }
             catch (Exception ex)

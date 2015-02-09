@@ -22,3 +22,7 @@ D:\Projects\pnvnSolution\Bin\Account.Common.pdb
 D:\Projects\pnvnSolution\Common\obj\Debug\Account.Common.csprojResolveAssemblyReference.cache
 D:\Projects\pnvnSolution\Common\obj\Debug\Account.Common.dll
 D:\Projects\pnvnSolution\Common\obj\Debug\Account.Common.pdb
+D:\Projects\account\Bin\Account.Common.dll
+D:\Projects\account\Bin\Account.Common.pdb
+D:\Projects\account\Common\obj\Debug\Account.Common.dll
+D:\Projects\account\Common\obj\Debug\Account.Common.pdb

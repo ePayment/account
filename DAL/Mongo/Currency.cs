@@ -7,6 +7,7 @@ using System.Text;
 
 using System.Dynamic;
 using MongoDB.Driver;
+using MongoDB.Driver.Builders;
 namespace Account.Data.Mongo
 {
     public class D_Currency
@@ -69,7 +70,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
+                IMongoQuery query = Query.EQ("_id", code);
                 return ePayment.DataProvider.MongoHelper.Get("Currency", query);
 
             }
@@ -84,8 +85,7 @@ namespace Account.Data.Mongo
         {
             try
             {
-                IMongoQuery query;
-                return ePayment.DataProvider.MongoHelper.List("Currency", query);
+                return ePayment.DataProvider.MongoHelper.List("Currency", null);
 
             }
             catch (Exception ex)
