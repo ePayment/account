@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 
 using Account.Common.Entities;
-using Account.Data.SqlServer;
+//using Account.Data.SqlServer;
+using Account.Data.Mongo;
 
 namespace Account.Business.Base
 {
@@ -52,9 +53,10 @@ namespace Account.Business.Base
         protected int Insert(Customer_Info custInfo)
         {
             _dalCust.CreateOneCustomer(custInfo);
-            if (_dalCust.Execute())
-                return _dalCust.LastRecordsEffected;
-            throw _dalCust.GetException;
+            //if (_dalCust.Execute())
+            //    return _dalCust.LastRecordsEffected;
+            //throw _dalCust.GetException;
+            return 1;
         }
         /// <summary>
         /// Sửa thông tin khách hàng
@@ -65,9 +67,10 @@ namespace Account.Business.Base
         protected int Update(Customer_Info custInfo)
         {
             _dalCust.EditOneCustomer(custInfo);
-            if (_dalCust.Execute())
-                return _dalCust.LastRecordsEffected;
-            throw _dalCust.GetException; 
+            //if (_dalCust.Execute())
+            //    return _dalCust.LastRecordsEffected;
+            //throw _dalCust.GetException; 
+            return 1;
         }
         /// <summary>
         /// Xóa bản ghi khách hàng
@@ -78,9 +81,10 @@ namespace Account.Business.Base
         protected int Delete(string custId)
         {
             _dalCust.RemoveOneCustomer(custId);
-            if (_dalCust.Execute())
-                return _dalCust.LastRecordsEffected;
-            throw _dalCust.GetException;
+            //if (_dalCust.Execute())
+            //    return _dalCust.LastRecordsEffected;
+            //throw _dalCust.GetException;
+            return 1;
         }
         /// <summary>
         /// Kiểm tra khách hàng đã được kích hoạt sử dụng hay chưa
@@ -108,7 +112,7 @@ namespace Account.Business.Base
         /// Lấy toàn bộ danh sách khách hàng
         /// </summary>
         /// <returns>mảng toàn bộ danh sách khách hàng</returns>
-        protected List<Customer_Info> GetAllCustomer()
+        protected dynamic[] GetAllCustomer()
         {
             return _dalCust.GetAllCustomer();
         }
@@ -118,7 +122,8 @@ namespace Account.Business.Base
         /// <returns>mã khách hàng mới</returns>
         protected string GenerateNewCustId()
         {
-            return _dalCust.GenerateNewCustomerId();
+            return Guid.NewGuid().ToString();
+            //return _dalCust.GenerateNewCustomerId();
         }
         /// <summary>
         /// Lấy danh sach tài khoản chi tiết của khách hàng
@@ -130,10 +135,10 @@ namespace Account.Business.Base
             decimal amnt = 0;
             D_Account dalAc = new D_Account();
             // Lấy danh sách tài khoản theo mã khách hàng
-            List<Account_Info> list = dalAc.GetListAccountByCustId(custId);
+            dynamic[] list = dalAc.GetListAccountByCustId(custId);
             //if (list.Count == 0)
             //    throw new Exception(string.Format("Can not find any account by customer: {0}", custId));
-            foreach (Account_Info ac in list)
+            foreach (dynamic ac in list)
             {
                 amnt += ac.Balance;
             }

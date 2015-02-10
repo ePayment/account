@@ -34,9 +34,9 @@ namespace Account.Host
         private MakeTranday _meT = null;
         private ChannelCustomer _meCust = null;
         ILog logger;
-        private Channel_Info _channel;
+        private dynamic _channel;
 
-        public AccountService(Channel_Info channel)
+        public AccountService(dynamic channel)
         {
             try
             {
@@ -47,7 +47,7 @@ namespace Account.Host
             catch (Exception ex)
             { throw ex; }
         }
-        private void Start(Channel_Info channel)
+        private void Start(dynamic channel)
         {
             _meT = new MakeTranday(channel);
             _meA = new ChannelAccount(channel);

@@ -15,7 +15,7 @@ namespace Account.Business
     {
         private DateTime _transdate;
         private ILog logger;
-        private Channel_Info _channel;
+        private dynamic _channel;
         private xml_response _res;
         private string _msgRule;
         //private D_Tranday _dalTranday;
@@ -23,7 +23,7 @@ namespace Account.Business
         private D_TranCode _dalTrancode;
         private string _docId;
 
-        public MakeTranday(Channel_Info channel)
+        public MakeTranday(dynamic channel)
         {
             // lấy thông tin ngày giao dịch
             logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);

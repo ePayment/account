@@ -16,9 +16,9 @@ namespace Account.Business
         
         private xml_response _res;
         private ILog logger;
-        private Channel_Info _channel;
+        private dynamic _channel;
 
-        public ChannelAccount(Channel_Info channel)
+        public ChannelAccount(dynamic channel)
         {
             _channel = channel;
             logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);

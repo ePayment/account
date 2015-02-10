@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using Account.Common.Entities;
-using Account.Data.SqlServer;
+//using Account.Data.SqlServer;
+using Account.Data.Mongo;
 
 namespace Account.Business.Base
 {
@@ -22,9 +23,10 @@ namespace Account.Business.Base
         protected int Insert(Account_Info accountInfo)
         {
             dalAc.CreateOneAccount(accountInfo);
-            if (dalAc.Execute())
-                return dalAc.LastRecordsEffected;
-            throw dalAc.GetException;
+            //if (dalAc.Execute())
+            //    return dalAc.LastRecordsEffected;
+            //throw dalAc.GetException;
+            return 1;
         }
         /// <summary>
         /// Sửa thông tin tài khoản
@@ -34,9 +36,10 @@ namespace Account.Business.Base
         protected int Update(Account_Info accountInfo)
         {
             dalAc.EditOneAccount(accountInfo);
-            if (dalAc.Execute())
-                return dalAc.LastRecordsEffected;
-            throw dalAc.GetException;
+            //if (dalAc.Execute())
+            //    return dalAc.LastRecordsEffected;
+            //throw dalAc.GetException;
+            return 1;
         }
         /// <summary>
         /// Hàm khóa số dư tài khoản.
@@ -51,9 +54,10 @@ namespace Account.Business.Base
             acInfo.Amount_Blocked += amnt;
             acInfo.Last_Date = DateTime.Now;
             dalAc.EditOneAccount(acInfo);
-            if (dalAc.Execute())
-            { return dalAc.LastRecordsEffected; }
-            throw dalAc.GetException;
+            //if (dalAc.Execute())
+            //{ return dalAc.LastRecordsEffected; }
+            //throw dalAc.GetException;
+            return 1;
         }
         /// <summary>
         /// Hàm bỏ khóa số dư tài khoản.
@@ -68,9 +72,10 @@ namespace Account.Business.Base
             acInfo.Amount_Blocked -= amnt;
             acInfo.Last_Date = DateTime.Now;
             dalAc.EditOneAccount(acInfo);
-            if (dalAc.Execute())
-            { return dalAc.LastRecordsEffected; }
-            throw dalAc.GetException;
+            //if (dalAc.Execute())
+            //{ return dalAc.LastRecordsEffected; }
+            //throw dalAc.GetException;
+            return 1;
         }
         /// <summary>
         /// Hàm thực hiện tạm khóa không cho sử dụng tài khoản
@@ -84,9 +89,10 @@ namespace Account.Business.Base
             acInfo.Locked = true;
             acInfo.Last_Date = DateTime.Now;
             dalAc.EditOneAccount(acInfo);
-            if (dalAc.Execute())
-            { return dalAc.LastRecordsEffected; }
-            throw dalAc.GetException;
+            //if (dalAc.Execute())
+            //{ return dalAc.LastRecordsEffected; }
+            //throw dalAc.GetException;
+            return 1;
         }
         /// <summary>
         /// Hàm bỏ khóa tài khoản.
@@ -113,7 +119,8 @@ namespace Account.Business.Base
         /// <returns>mã khách hàng mới</returns>
         protected string GenerateNewAccountId(string branchId, string categories)
         {
-            return dalAc.GenerateNewAccountId(branchId, categories);
+            return Guid.NewGuid().ToString();
+            //return dalAc.GenerateNewAccountId(branchId, categories);
         }
         /// <summary>
         /// Hàm đóng tài khoản.
@@ -129,9 +136,10 @@ namespace Account.Business.Base
             acInfo.Closed_date = DateTime.Now;
             acInfo.Last_Date = DateTime.Now;
             dalAc.EditOneAccount(acInfo);
-            if (dalAc.Execute())
-                return dalAc.LastRecordsEffected;
-            throw dalAc.GetException;
+            //if (dalAc.Execute())
+            //    return dalAc.LastRecordsEffected;
+            //throw dalAc.GetException;
+            return 1;
         }
         /// <summary>
         /// Hàm xóa tài khoản đã được tạo
@@ -142,9 +150,10 @@ namespace Account.Business.Base
         protected int Delete(string accountId)
         {
             dalAc.RemoveOneAccount(accountId);
-            if (dalAc.Execute())
-                return dalAc.LastRecordsEffected;
-            throw dalAc.GetException;
+            //if (dalAc.Execute())
+            //    return dalAc.LastRecordsEffected;
+            //throw dalAc.GetException;
+            return 1;
         }
         /// <summary>
         /// Lấy thông tin tài khoản chi tiết
@@ -152,7 +161,7 @@ namespace Account.Business.Base
         /// <param name="accountId">Mã số tài khoản</param>
         /// <returns>=null nếu không có
         /// #null nếu tìm thấy</returns>
-        protected Account_Info GetAccountById(string accountId)
+        protected dynamic GetAccountById(string accountId)
         {
             return dalAc.GetOneAccount(accountId);
         }
@@ -164,7 +173,7 @@ namespace Account.Business.Base
         /// <param name="custId">Mã khách hàng</param>
         /// <returns>=null nếu không tìm thấy thông tin tài khoản chi tiết
         /// #null nếu tìm thấy</returns>
-        protected Account_Info GetAccountBy(string branch, string categories, string custId)
+        protected dynamic GetAccountBy(string branch, string categories, string custId)
         {
             return dalAc.GetOneAccount(branch, categories, custId);
         }

@@ -94,6 +94,7 @@
     <Compile Include="Mongo\Categories.cs" />
     <Compile Include="Mongo\Channels.cs" />
     <Compile Include="Mongo\Currency.cs" />
+    <Compile Include="Mongo\Customer.cs" />
     <Compile Include="Mongo\Industry.cs" />
     <Compile Include="Mongo\Parameter.cs" />
     <Compile Include="Mongo\Sector.cs" />

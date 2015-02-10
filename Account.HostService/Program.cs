@@ -35,8 +35,9 @@ namespace Account.Host
             channels = new Channels();
             list = channels.GetAllChannels();
             host = new ServiceHostEnhanced[list.Length];
-            foreach (Channel_Info channel in list)
+            foreach (dynamic channel in list)
             {
+                int _id = channel._id;
                 host[i] = new ServiceHostEnhanced(channel);
                 host[i].Open();
                 i++;

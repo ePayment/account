@@ -64,8 +64,8 @@ namespace Account.Business
                 return result;
             if (base.Insert(custInfo) != 0)
                 SetError(0, String.Empty);
-            else
-                SetError(99, _dalCust.GetException.Message);
+            //else
+            //    SetError(99, _dalCust.GetException.Message);
             return Error_Number;
         }
         public int Update_Auth(Customer_Info custInfo)
@@ -133,8 +133,8 @@ namespace Account.Business
                 return result;
             if (base.Update(custInfo) != 0)
                 SetError(0, String.Empty);
-            else
-                SetError(99, _dalCust.GetException.Message);
+            //else
+            //    SetError(99, _dalCust.GetException.Message);
             return Error_Number;
         }
         public int Delete_Auth(string custId)
@@ -160,8 +160,8 @@ namespace Account.Business
                 return result;
             if (base.Delete(custId) != 0)
                 SetError(0, String.Empty);
-            else
-                SetError(99, _dalCust.GetException.Message);
+            //else
+            //    SetError(99, _dalCust.GetException.Message);
             return Error_Number;
         }
         public Customer_Info GetCustomerByID(string custId)
@@ -172,7 +172,7 @@ namespace Account.Business
         { 
             return base.GetCustomerByCert(custCert); 
         }
-        public new List<Customer_Info> GetAllCustomer()
+        public new dynamic[] GetAllCustomer()
         { return base.GetAllCustomer(); }
         public int Approved_Auth(string custId)
         {
@@ -202,8 +202,8 @@ namespace Account.Business
             
             if (base.Update(custInfo) != 0)
                 SetError(0, String.Empty);
-            else
-                SetError(99, _dalCust.GetException.Message);
+            //else
+            //    SetError(99, _dalCust.GetException.Message);
             return Error_Number;
         }
         public new decimal Balance(string custId)

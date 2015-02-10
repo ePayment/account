@@ -10,10 +10,10 @@ namespace Account.Business
     public class ChannelCustomer:BaseCustomer
     {
         private xml_response _res;
-        private Channel_Info _channel;
+        private dynamic _channel;
         protected ILog Logger;
 
-        public ChannelCustomer(Channel_Info channel):base()
+        public ChannelCustomer(dynamic channel):base()
         {
             _channel = channel;
             Logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
@@ -53,7 +53,7 @@ namespace Account.Business
                         Logger.Debug(string.Format("{0}\t{1}", _res.error_code, _res.error_msg));
                     return _res;
                 }
-                if (base.Insert(_channel.Branch,_channel.UserLogin, custName, custAdd, custCert) == 0)
+                if (base.Insert((string)_channel.Branch,(string)_channel.UserLogin, custName, custAdd, custCert) == 0)
                 {
                     _res.SetError("99", GetException.Message);
                     if (Logger.IsDebugEnabled)
